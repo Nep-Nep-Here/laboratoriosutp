@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <form >
+        <fieldset>
+            <legend> informacion personal</legend>
+            <label >Nombre:</label>
+            <input type="text" name="nombre">
+            <label >Direccion:</label>
+            <input type="text" name="Direccion"><br>
+            
+        </fieldset>
+        <fieldset>
+            <legend>preferencias</legend>
+            <input type="checkbox" name="arte">Arte <br>
+            <input type="checkbox" name="television">television <br>
+            <input type="checkbox" name="videoJuego">videoJuego <br>
+            <input type="checkbox" name="deportes">deportes <br>
+
+        </fieldset>
+
+        <br>
+        <input type="submit" name="enviar" value="Enviar">
+    </form>
+</body>
+</html>
