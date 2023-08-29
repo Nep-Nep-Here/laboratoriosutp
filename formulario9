@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    
+    <label for="">Redes sociales que utilizas: </label><br>
+    <select multiple="" name="redes{}" size="4">
+    <option value="facebook">Facebook</option>
+    <option value="facebook">Twitter</option>
+    <option value="facebook">Instagram</option>
+    <option value="facebook">Snapchat</option>
+    <option value="facebook">Spotify</option>
+    <option value="facebook">TikTok</option>
+</select>
+</body>
+</html>
