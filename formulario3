@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>
+
+        </title>
+    </head>
+    <body>
+        <form>
+            <label">Tus actividades preferidas son:</label>
+            <input type="checkbox" name="peliculas">Peliculas<br>
+            <input type="checkbox" name="deportes">Deportes<br>
+            <input type="checkbox" name="videoJuego">Video Juegos<br>
+        </form>
+    </body>
+</html>
