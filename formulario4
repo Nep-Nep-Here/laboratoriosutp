@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>
+
+        </title>
+    </head>
+    <body>
+        <form>
+            <label >Condicion civil</label> <br>
+            <input type="radio" name="civil">Soltero<br>
+            <input type="radio" name="civil">Casado<br>
+            <input type="radio" name="civil">Viudo<br>
+            <input type="radio" name="civil">Divorciado<br>
+
+        </form>
+    </body>
+</html>
