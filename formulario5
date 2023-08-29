@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>
+
+        </title>
+    </head>
+    <body>
+        <form>
+           <input type="button" name="saludo" value="Hola, este boton no hace nada">
+
+           <button type="button">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Black_check.svg/800px-Black_check.svg.png" alt="Check" width="20" height="20" style="vertical-align: middle;">
+
+            Este boton, aun no hace nada
+           </button>
+
+        </form>
+    </body>
+</html>
