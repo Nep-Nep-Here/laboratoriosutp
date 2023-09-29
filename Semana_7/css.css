@@ -1,0 +1,50 @@
+body
+{
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-hojas-dibujadas-mano_23-2149093051.jpg?w=1800&t=st=1695849687~exp=1695850287~hmac=f4e853c7216970278a67c4f01ff6399f7f4bb805c281255588dac20911443ec5);
+}
+
+.derecha{
+    text-align: right;
+}
+.izquierda{
+    text-align: left;
+}
+.centro{
+    text-align: center;
+}
+
+
+p{
+    color: blue;
+    font-family: Tahoma;
+    font-size: 14pt;
+}
+
+#resaltar1{
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}
+#resaltar2{
+    color: orange;
+    font-weight: bold;
+    font-style: italic;
+}
+#resaltar3{
+    color: rgb(181, 21, 181);
+    font-weight: bold;
+    font-style: italic;
+}
+#resaltar4{
+    color: rgb(245, 4, 145);
+    font-weight: bold;
+    font-style: italic;
+}
+
+#resaltar5{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-style: italic;
+}
+
+
